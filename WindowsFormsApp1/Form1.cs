@@ -33,5 +33,10 @@ namespace WindowsFormsApp1
                 MessageBox.Show("Como vas a dividir por 0 kpo","Error",MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void btnXd_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("que onda paco qliao");
+        }
     }
 }
